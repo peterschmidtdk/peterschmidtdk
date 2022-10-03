@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## 👨‍💻 A little about me, I am Peter Schmidt
+
+
 <!--
 **peterschmidtdk/peterschmidtdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
