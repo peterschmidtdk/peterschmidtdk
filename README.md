@@ -1,4 +1,4 @@
-### 👋 Hi there, I'am Peter!
+### 👋 Hi there, I am Peter!
 
 * 💻 I work as an independent Cloud & Security Architect with focus on Microsoft 365 and Azure
 * 🌍 I live in Denmark
