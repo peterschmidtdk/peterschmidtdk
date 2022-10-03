@@ -1,6 +1,10 @@
-### Hi there 👋
+# 👋 Hi there, I'am Peter!
 
-## 👨‍💻 A little about me, I am Peter Schmidt
+* 💻 I work as an independent Microsoft 365 Cloud & Security Architect and Consultant 
+* 🌍 I am based in Denmark
+* 🎉 I am awarded as a Microsoft MVP: M365 Apps & Services
+* 🔭 You will find my blog at https://msdigest.net
+* 🎙 I am a public speaker - speaking in User Groups, virtual and in-person conferences
 
 
 <!--
