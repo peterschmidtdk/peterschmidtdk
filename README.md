@@ -1,9 +1,9 @@
 ### 👋 Hi there, I'am Peter!
 
 * 💻 I work as an independent Cloud & Security Architect with focus on Microsoft 365 and Azure
-* 🌍 I am based in Denmark
+* 🌍 I live in Denmark
 * 🎉 I am awarded as a Microsoft MVP: M365 Apps & Services
-* 🔭 You will find my blog at https://msdigest.net
+* 🔭 You can find my blog at https://msdigest.net
 * 🎙 I am a public speaker - speaking in User Groups, virtual and in-person conferences
 
 
