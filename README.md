@@ -5,6 +5,7 @@
 * 🎉 I am awarded as a Microsoft MVP: M365 Apps & Services
 * 🔭 You can find my blog at https://msdigest.net
 * 🎙 I am a public speaker - speaking in User Groups, virtual and in-person conferences
+👯 I run the Workplace Ninja Denmark User Group together with some peers in Denmark
 
 
 <!--
