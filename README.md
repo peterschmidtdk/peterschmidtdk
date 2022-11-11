@@ -6,6 +6,7 @@
 * 🔭 You can find my blog at https://msdigest.net
 * 📫 How to reach me at Twitter: @petsch
 * 🎙 I am a public speaker - speaking in User Groups, virtual and in-person conferences
+* 🎙 Here is slidedecks from my speaking engagements: https://github.com/peterschmidtdk/Slidedecks
 * 👯 I run the Workplace Ninja Denmark User Group together with some peers in Denmark (https://wpninjas.dk/)
 
 
