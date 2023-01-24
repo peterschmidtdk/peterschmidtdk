@@ -9,7 +9,9 @@
 * 🎙 Here is slidedecks from my speaking engagements: https://github.com/peterschmidtdk/Slidedecks
 * 👯 I run the Workplace Ninja Denmark User Group together with some fellow peers in Denmark (https://wpninjas.dk/)
 
+### Stats
 [![peterschmidtdk's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterschmidtdk)](https://github.com/peterschmidtdk/github-readme-stats)
+
 
 <!--
 **peterschmidtdk/peterschmidtdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
