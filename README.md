@@ -10,7 +10,7 @@
 * 👯 I run the Workplace Ninja Denmark User Group together with some fellow peers in Denmark (https://wpninjas.dk/)
 
 ### Stats
-[![peterschmidtdk's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterschmidtdk)](https://github.com/peterschmidtdk/github-readme-stats)
+[![peterschmidtdk's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterschmidtdk&amp;theme=dark&amp;show_icons=true)](https://github.com/peterschmidtdk/github-readme-stats)
 
 
 <!--
