@@ -4,7 +4,7 @@
 * 🌍 I live in Denmark
 * 🎉 I am awarded as a Microsoft MVP: M365 Apps & Services and Microsoft MVP: Security
 * 🔭 You can find my blog at https://msdigest.net
-* 📫 How to reach me at Twitter: @petsch
+* 📫 How to reach me at Twitter: [@petsch](https://www.twitter.com/petsch)
 * 📫 How to reach me at Mastodon: @petsch
 * 🎙 I am a public speaker - speaking at User Groups, virtual and in-person conferences (https://sessionize.com/peterschmidt)
 * 🎙 Here is slidedecks from my speaking engagements: https://github.com/peterschmidtdk/Slidedecks
