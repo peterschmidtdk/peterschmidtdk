@@ -7,7 +7,7 @@
 * 📫 How to reach me at Twitter: [@petsch](https://www.twitter.com/petsch)
 * 📫 How to reach me at Mastodon: [@petsch](https://mastodon.cloud/@petsch)
 * 🎙 I am a public speaker - speaking at User Groups, virtual and in-person conferences (https://sessionize.com/peterschmidt)
-* 🎙 Here is slidedecks from my speaking engagements: https://github.com/peterschmidtdk/Slidedecks
+* 🎙 Here is slidedecks from my previous speaking engagements: https://github.com/peterschmidtdk/Slidedecks
 * 👯 I run the Workplace Ninja Denmark User Group together with some fellow peers in Denmark (https://wpninjas.dk/)
 
 ### Stats
