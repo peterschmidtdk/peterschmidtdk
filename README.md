@@ -9,6 +9,7 @@
 * 🎙 I am a public speaker - speaking at User Groups, virtual and in-person conferences (https://sessionize.com/peterschmidt)
 * 🎙 Here is slidedecks from my previous speaking engagements: https://github.com/peterschmidtdk/Slidedecks
 * 👯 I run the Workplace Ninja Denmark User Group together with some fellow peers in Denmark (https://wpninjas.dk/)
+- 💬 Interested in speakting at a User Group - contant me...
 
 ### Stats
 [![peterschmidtdk's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterschmidtdk&amp;theme=dark&amp;show_icons=true)](https://github.com/peterschmidtdk/github-readme-stats)
