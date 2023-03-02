@@ -10,6 +10,7 @@
 * 🎙 Here is slidedecks from my previous speaking engagements: https://github.com/peterschmidtdk/Slidedecks
 * 👯 I run the Workplace Ninja Denmark User Group together with some fellow peers in Denmark (https://wpninjas.dk/)
 - 💬 Interested in speakting at our local danish User Group (all sessions are online) - contact me...
+- - You can also submit a session if you would like to speak at Workplace Ninja Denmark, through our Call for Paper: https://sessionize.com/WPNinjasDK/
 
 ### Stats
 [![peterschmidtdk's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterschmidtdk&amp;theme=dark&amp;show_icons=true)](https://github.com/peterschmidtdk/github-readme-stats)
