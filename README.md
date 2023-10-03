@@ -9,7 +9,7 @@
 * 🎙 I am a public speaker - speaking at User Groups, virtual and in-person conferences (https://sessionize.com/peterschmidt)
 * 🎙 Here is slidedecks from my previous speaking engagements: https://github.com/peterschmidtdk/Slidedecks
 * 👯 I run the Workplace Ninja Denmark User Group together with some fellow peers in Denmark (https://wpninjas.dk/)
-- 💬 Interested in speakting at our local danish User Group (all sessions are online) - contact me...
+- 💬 Interested in speakting at our local danish User Group (all sessions are online) - Do not hesitate to reach out and contact me...
 - - You can also submit a session if you would like to speak at Workplace Ninja Denmark, through our Call for Paper: https://sessionize.com/WPNinjasDK/
 
 ### Stats
