@@ -2,13 +2,13 @@
 
 * 💻 I work as an independent Cloud & Security Architect with focus on Microsoft 365 and Security
 * 🌍 I live in Denmark
-* 🎉 I am awarded as a Microsoft MVP: M365 Apps & Services and Microsoft MVP: Security
+* 🎉 I am awarded as a Microsoft MVP: M365 Apps & Services (Previously also Microsoft MVP: Security)
 * 🔭 You can find my blog at https://msdigest.net
-* 📫 How to reach me at Twitter: [@petsch](https://www.twitter.com/petsch)
-* 📫 How to reach me at Mastodon: [@petsch](https://mastodon.cloud/@petsch)
+* 📫 How to reach me at X (Twitter): [@petsch](https://www.twitter.com/petsch)
+* 📫 How to reach me at Mastodon: [@petsch](https://mastodon.cloud/@petsch) (Not very active here)
 * 🎙 I am a public speaker - speaking at User Groups, virtual and in-person conferences (https://sessionize.com/peterschmidt)
-* 🎙 Here is slidedecks from my previous speaking engagements: https://github.com/peterschmidtdk/Slidedecks
-* 👯 I run the Workplace Ninja Denmark User Group together with some fellow peers in Denmark (https://wpninjas.dk/)
+* 🎙 Here is slide decks from my previous speaking engagements: https://github.com/peterschmidtdk/Slidedecks
+* 👯 I am the founder and co-organizer of the Workplace Ninja User Group Denmark, which is run together with some fellow peers in Denmark (https://wpninjas.dk/)
 - 💬 Interested in speakting at our local danish User Group (all sessions are online) - Do not hesitate to reach out and contact me...
 - - You can also submit a session if you would like to speak at Workplace Ninja Denmark, through our Call for Paper: https://sessionize.com/WPNinjasDK/
 
