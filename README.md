@@ -2,10 +2,11 @@
 
 * 💻 I work as an independent Cloud & Security Architect with focus on Microsoft 365 and Security
 * 🌍 I live in Denmark
-* 🎉 I am awarded as a dual Microsoft MVP: M365 & Microsoft MVP: Security
+* 🎉 I am awarded as a Microsoft MVP: M365
 * 🔭 You can find my blog at https://msdigest.net
-* 📫 How to reach me at X (Twitter): [@petsch](https://www.twitter.com/petsch)
+* 📫 How to reach me at X (Twitter): [@petsch](https://www.twitter.com/petsch) (Not very active here)
 * 📫 How to reach me at Mastodon: [@petsch](https://mastodon.cloud/@petsch) (Not very active here)
+* 📫 How to reach me at Bluesky: [@peterschmidt.me]([https://mastodon.cloud/@petsch](https://bsky.app/profile/peterschmidt.me)) (Not very active here)
 * 🎙 I am a public speaker - speaking at User Groups, virtual and in-person conferences (https://sessionize.com/peterschmidt)
 * 🎙 Here is slide decks from my previous speaking engagements: https://github.com/peterschmidtdk/Slidedecks
 
