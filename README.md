@@ -4,6 +4,7 @@
 * 🌍 I live in Denmark
 * 🎉 I am awarded as a Microsoft MVP: M365
 * 🔭 You can find my blog at https://msdigest.net
+* 📫 How to reach me at LinkedIn: [@petsch](https://www.linkedin.com/in/petsch)
 * 📫 How to reach me at X (Twitter): [@petsch](https://www.twitter.com/petsch) (Not very active here)
 * 📫 How to reach me at Mastodon: [@petsch](https://mastodon.cloud/@petsch) (Not very active here)
 * 📫 How to reach me at Bluesky: [@peterschmidt.me]([https://mastodon.cloud/@petsch](https://bsky.app/profile/peterschmidt.me)) (Not very active here)
