@@ -3,6 +3,8 @@
 * 💻 I work as an independent Cloud & Security Architect with focus on Microsoft 365 and Security
 * 🌍 I live in Denmark
 * 🎉 I am awarded as a Microsoft MVP: M365
+
+#### Blog & Socials
 * 🔭 You can find my blog at https://msdigest.net
 * 📫 How to reach me at LinkedIn: [@petsch](https://www.linkedin.com/in/petsch)
 * 📫 How to reach me at X (Twitter): [@petsch](https://www.twitter.com/petsch) (Not very active here)
