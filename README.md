@@ -19,7 +19,7 @@
 * 👯 I am the founder and co-organizer of the Workplace Ninja User Group Denmark, which is run together with some fellow peers in Denmark (https://wpninjas.dk/)
 * 👯 Visit our Workplace Ninja User Group Denmark Youtube channel at (https://www.youtube.com/@WorkplaceNinjas)
 - 💬 If you are Interested in speaking at our local Danish User Group (all sessions are run online) - Do not hesitate to reach out and contact me...
-- - You can also submit a session if you would like to speak at Workplace Ninja Denmark, through our Call for Paper: https://sessionize.com/WPNinjasDK/
+- You can also submit a session if you would like to speak at Workplace Ninja Denmark, through our Call for Paper: https://sessionize.com/WPNinjasDK/
 
 #### Stats
 [![peterschmidtdk's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterschmidtdk&amp;theme=dark&amp;show_icons=true)](https://github.com/peterschmidtdk/github-readme-stats)
