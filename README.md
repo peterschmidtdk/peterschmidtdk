@@ -21,6 +21,9 @@
 - 💬 If you are Interested in speaking at our local Danish User Group (all sessions are run online) - Do not hesitate to reach out and contact me...
 - You can also submit a session if you would like to speak at Workplace Ninja Denmark, through our Call for Paper: https://sessionize.com/WPNinjasDK/
 
+#### Contact
+- You can contact me via the contact form at https://msdigest.net.
+ 
 #### Stats
 [![peterschmidtdk's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterschmidtdk&amp;theme=dark&amp;show_icons=true)](https://github.com/peterschmidtdk/github-readme-stats)
 
