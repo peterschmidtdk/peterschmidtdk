@@ -18,7 +18,7 @@
 #### Workplace Ninja User Group Denmark (Danish User Group)
 * 👯 I am the founder and co-organizer of the Workplace Ninja User Group Denmark, which is run together with some fellow peers in Denmark (https://wpninjas.dk/)
 * 👯 Visit our Workplace Ninja User Group Denmark Youtube channel at (https://www.youtube.com/@WorkplaceNinjas)
-- 💬 If you are Interested in speaking at our local Danish User Group (all sessions are run online) - Do not hesitate to reach out and contact me...
+- 💬 If you are Interested in speaking at our local Danish User Group (all sessions are run online) - Do not hesitate to reach out and contact me or
 - You can also submit a session if you would like to speak at Workplace Ninja Denmark, through our Call for Paper: https://sessionize.com/WPNinjasDK/
 
 #### Contact
