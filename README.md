@@ -12,6 +12,13 @@
 * 📫 How to reach me at Bluesky: [@peterschmidt.me](https://bsky.app/profile/peterschmidt.me) (Not very active here)
 
 #### Speaking
+My latest scripts are:
+- Exchange Mailbox SOA Manager
+- EXO-ReEnable-AutoReply
+- ADUsers-Signature-Data
+- Certificate Exporter
+
+#### Speaking
 * 🎙 I am a public speaker - speaking at User Groups, virtual and in-person conferences (https://sessionize.com/peterschmidt)
 * 🎙 Here is slide decks from my previous speaking engagements: https://github.com/peterschmidtdk/Slidedecks
 
