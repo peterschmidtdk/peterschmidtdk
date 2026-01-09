@@ -11,8 +11,7 @@
 * 📫 How to reach me at Mastodon: [@petsch](https://mastodon.cloud/@petsch) (Not very active here)
 * 📫 How to reach me at Bluesky: [@peterschmidt.me](https://bsky.app/profile/peterschmidt.me) (Not very active here)
 
-#### Speaking
-My latest scripts are:
+#### My latest scripts
 - Exchange Mailbox SOA Manager
 - EXO-ReEnable-AutoReply
 - ADUsers-Signature-Data
