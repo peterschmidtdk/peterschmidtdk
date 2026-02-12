@@ -12,10 +12,10 @@
 * 📫 How to reach me at Bluesky: [@peterschmidt.me](https://bsky.app/profile/peterschmidt.me) (Not very active here)
 
 #### My latest scripts
-- Exchange Mailbox SOA Manager
+- Exchange Mailbox & Group SOA Manager
 - EXO-ReEnable-AutoReply
 - ADUsers-Signature-Data
-- Certificate Exporter
+- Certificate Exporter (exports formats to pfx, pem etc)
 
 #### Speaking
 * 🎙 I am a public speaker - speaking at User Groups, virtual and in-person conferences (https://sessionize.com/peterschmidt)
