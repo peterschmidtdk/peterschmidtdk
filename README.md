@@ -4,7 +4,7 @@
 * 🌍 I live in Denmark
 * 🎉 I am awarded as a Microsoft MVP: M365
 * 👯 User Group Leader of Workplace Ninjas Denmark
-
+* 💬 Public Speaker (presenting at user groups and conferences worldwide)
 
 #### Blog & Socials
 * 🔭 You can find my blog at https://msdigest.net
