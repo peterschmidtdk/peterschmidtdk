@@ -1,6 +1,6 @@
 ### 👋 Hi there, I am Peter!
 
-* 💻 I work as an independent Cloud & Security Architect with focus on Microsoft 365 and Security
+* 💻 I work as an independent Cloud & Security Architect specializing in Microsoft 365, Security, Identity, Email (Exchange) and M&A (tenant-to-tenant migrations).
 * 🌍 I live in Denmark
 * 🎉 I am awarded as a Microsoft MVP: M365
 
@@ -11,7 +11,7 @@
 * 📫 How to reach me at Mastodon: [@petsch](https://mastodon.cloud/@petsch) (Not very active here)
 * 📫 How to reach me at Bluesky: [@peterschmidt.me](https://bsky.app/profile/peterschmidt.me) (Not very active here)
 
-#### My latest scripts
+#### My latest community scripts, made available here on GitHub:
 - Exchange Mailbox & Group SOA Manager
 - EXO-ReEnable-AutoReply
 - ADUsers-Signature-Data
