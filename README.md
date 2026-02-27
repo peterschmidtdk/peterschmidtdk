@@ -14,7 +14,7 @@
 * 📫 How to reach me at Bluesky: [@peterschmidt.me](https://bsky.app/profile/peterschmidt.me) (Not very active here)
 
 #### My latest community scripts, made available here on GitHub:
-- Exchange Mailbox & Group SOA Manager
+- [Exchange Mailbox & Group SOA Manager](https://github.com/peterschmidtdk/Exchange-Maibox-SOA-Manager)
 - EXO-ReEnable-AutoReply
 - ADUsers-Signature-Data
 - Certificate Exporter (exports formats to pfx, pem etc)
