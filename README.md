@@ -1,6 +1,6 @@
 ### 👋 Hi there, I am Peter!
 
-* 💻 I work as an independent Cloud & Security Architect specializing in Microsoft 365, Security, Identity, Email (Exchange) and M&A (tenant-to-tenant migrations).
+* 💻 I work as an independent Cloud & Security Architect specializing in Microsoft 365, Security, Identity, Email (Defender for Office and Exchange) and M&A (tenant-to-tenant migrations).
 * 🌍 I live in Denmark
 * 🎉 I am awarded as a Microsoft MVP: M365
 * 👯 User Group Leader of Workplace Ninjas Denmark
