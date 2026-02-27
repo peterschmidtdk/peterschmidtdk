@@ -36,7 +36,7 @@
 - You can contact me via the contact form at https://msdigest.net.
  
 #### Stats
-[![peterschmidtdk's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterschmidtdk&amp;theme=dark&amp;show_icons=true)](https://github.com/peterschmidtdk/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/peterschmidtdk?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 <!--
