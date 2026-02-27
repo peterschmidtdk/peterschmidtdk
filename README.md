@@ -20,7 +20,7 @@
 - Certificate Exporter (exports formats to pfx, pem etc)
 
 #### My latest collection of information, made available here on GitHub:
-- [![A List of Microsoft Ninja Training available for all](https://github.com/peterschmidtdk/github-readme-stats](https://github.com/peterschmidtdk/Microsoft-Ninja-Training)
+- [A List of Microsoft Ninja Training available for all](https://github.com/peterschmidtdk/Microsoft-Ninja-Training)
 
 #### Speaking
 * 🎙 I am a public speaker - speaking at User Groups, virtual and in-person conferences (https://sessionize.com/peterschmidt)
