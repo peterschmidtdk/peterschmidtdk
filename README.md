@@ -15,6 +15,7 @@
 
 #### My latest community scripts, made available here on GitHub:
 - [Exchange Mailbox & Group SOA Manager](https://github.com/peterschmidtdk/Exchange-Maibox-SOA-Manager)
+- [Exchange Mailbox SOA Bulk Updater](https://github.com/peterschmidtdk/Exchange-Maibox-SOA-Manager/tree/main/Bulk-Update-Script)
 - EXO-ReEnable-AutoReply
 - ADUsers-Signature-Data
 - Certificate Exporter (exports formats to pfx, pem etc)
