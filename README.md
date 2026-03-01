@@ -16,6 +16,7 @@
 #### My latest community scripts, made available here on GitHub:
 - [Exchange Mailbox & Group SOA Manager](https://github.com/peterschmidtdk/Exchange-Maibox-SOA-Manager)
 - [Exchange Mailbox SOA Bulk Updater](https://github.com/peterschmidtdk/Exchange-Maibox-SOA-Manager/tree/main/Bulk-Update-Script)
+- [M365 Migration Scripts Toolkit](https://github.com/peterschmidtdk/M365-Migration-Scripts)
 - EXO-ReEnable-AutoReply
 - ADUsers-Signature-Data
 - Certificate Exporter (exports formats to pfx, pem etc)
