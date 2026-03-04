@@ -14,7 +14,7 @@
 * 📫 How to reach me at Bluesky: [@peterschmidt.me](https://bsky.app/profile/peterschmidt.me) (Not very active here)
 
 #### My latest community scripts, made available here on GitHub:
-- [Exchange Mailbox & Group SOA Manager](https://github.com/peterschmidtdk/Entra-SOA-Manager-Toolkit)
+- [Change AD User to Entra User SOA (Entra SOA Manager toolkit)](https://github.com/peterschmidtdk/Entra-SOA-Manager-Toolkit)
 - [Exchange Mailbox & Group SOA Manager](https://github.com/peterschmidtdk/Exchange-Maibox-SOA-Manager)
 - [Exchange Mailbox SOA Bulk Updater](https://github.com/peterschmidtdk/Exchange-Maibox-SOA-Manager/tree/main/Bulk-Update-Script)
 - [M365 Migration Scripts Toolkit](https://github.com/peterschmidtdk/M365-Migration-Scripts)
