@@ -41,7 +41,7 @@
 ### Disclaimer
 All my scripts are provided **as-is**, without warranty.
 - **Always test in a non-production (lab) tenant first**
-- Review and understand the code before running it and always start with a small and validate results
+- Review and understand the code before running it and always start with a small Pilot and validate results
 
 
 #### Stats
