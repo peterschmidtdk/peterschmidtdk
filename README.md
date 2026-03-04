@@ -37,7 +37,14 @@
 
 #### Contact
 - You can contact me via the contact form at https://msdigest.net.
- 
+
+## Disclaimer
+All my scripts are provided **as-is**, without warranty.
+- **Always test in a non-production (lab) tenant first**
+- Review and understand the code before running it
+- Start with a small pilot CSV and validate results
+- Do **not** run in production until you are confident in the behavior and impact
+
 #### Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/peterschmidtdk?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
