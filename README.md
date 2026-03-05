@@ -23,7 +23,7 @@
 - Certificate Exporter (exports formats to pfx, pem etc)
 
 #### Other toools, I have made available for free to the IT community:
-- [DomainRadar - a free service to check DNS and E-mail Healthchecks (SPF,DKIM,DMARC) etc: ](https://domainradar.app)
+- [DomainRadar - a free service to check DNS and E-mail Healthchecks (SPF,DKIM,DMARC) etc.](https://domainradar.app)
 
 
 #### Sharing Information (My latest collection of information, made available here on GitHub):
