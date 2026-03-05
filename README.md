@@ -22,7 +22,7 @@
 - ADUsers-Signature-Data
 - Certificate Exporter (exports formats to pfx, pem etc)
 
-#### My latest collection of information, made available here on GitHub:
+#### Sharing Information (My latest collection of information, made available here on GitHub):
 - [A full list of all Microsoft Ninja Training!](https://github.com/peterschmidtdk/Microsoft-Ninja-Training)
 
 #### Speaking
