@@ -31,7 +31,8 @@
 
 #### Speaking
 * 🎙 I am a public speaker - speaking at User Groups, virtual and in-person conferences (https://sessionize.com/peterschmidt)
-* 🎙 Here is slide decks from my previous speaking engagements: https://github.com/peterschmidtdk/Slidedecks
+* 🎙 Here is a link to the SlideDecks from my previous speaking engagements: https://github.com/peterschmidtdk/Slidedecks
+* 🎙 Here is a link to a list of all my previous speaking engagements: https://msdigest.net/speaking
 
 #### Workplace Ninja User Group Denmark (Danish User Group)
 * 👯 I am the founder and co-organizer of the Workplace Ninja User Group Denmark, which is run together with some fellow peers in Denmark (https://wpninjas.dk/)
