@@ -24,7 +24,7 @@
 
 #### Other tools, I have made available for free to the IT community:
 - [DomainRadar - a free service to check DNS and E-mail Healthchecks (SPF,DKIM,DMARC) etc.](https://domainradar.app)
-
+- [BurnLink - a free service to send a password as a one-time link and burns it after it's opened.)](https://BurnLink.io)
 
 #### Sharing Information (My latest collection of information, made available here on GitHub):
 - [A full list of all Microsoft Ninja Training!](https://github.com/peterschmidtdk/Microsoft-Ninja-Training)
