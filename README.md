@@ -13,7 +13,7 @@
 * 📫 How to reach me at Mastodon: [@petsch](https://mastodon.cloud/@petsch) (Not very active here)
 * 📫 How to reach me at Bluesky: [@peterschmidt.me](https://bsky.app/profile/peterschmidt.me) (Not very active here)
 
-#### My latest community scripts, made available here on GitHub:
+#### My latest community scripts, made available here on GitHub in 2025 and 2026:
 - [Change AD User to Entra User SOA (Entra SOA Manager toolkit)](https://github.com/peterschmidtdk/Entra-SOA-Manager-Toolkit)
 - [Exchange Mailbox & Group SOA Manager](https://github.com/peterschmidtdk/Exchange-Maibox-SOA-Manager)
 - [Exchange Mailbox SOA Bulk Updater](https://github.com/peterschmidtdk/Exchange-Maibox-SOA-Manager/tree/main/Bulk-Update-Script)
