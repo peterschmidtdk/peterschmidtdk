@@ -22,7 +22,7 @@
 - ADUsers-Signature-Data
 - Certificate Exporter (exports formats to pfx, pem etc)
 
-#### Other toools, I have made available for free to the IT community:
+#### Other tools, I have made available for free to the IT community:
 - [DomainRadar - a free service to check DNS and E-mail Healthchecks (SPF,DKIM,DMARC) etc.](https://domainradar.app)
 
 
