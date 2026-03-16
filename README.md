@@ -39,6 +39,7 @@
 * 👯 Visit our Workplace Ninja User Group Denmark Youtube channel at (https://www.youtube.com/@WorkplaceNinjas)
 - 💬 If you are Interested in speaking at our local Danish User Group (Workplace Ninja User Group Denmark), all meetups are run remote online - do not hesitate to reach out or submit a session at: https://sessionize.com/WPNinjasDK/
 - You can also submit a session if you would like to speak at Workplace Ninja Denmark, through our Call for Paper: https://sessionize.com/WPNinjasDK/
+- Here is the link to the Workplace Ninja Denmark Github: https://github.com/Workplace-Ninja-User-Group-Denmark
 
 #### Contact
 - You can contact me via the contact form at https://msdigest.net.
