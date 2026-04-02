@@ -3,7 +3,7 @@
 * 💻 I work as an independent Cloud & Security Architect specializing in Microsoft 365, Security, Identity, Email (Defender for Office and Exchange) and M&A (tenant-to-tenant migrations).
 * 🌍 I live in Denmark
 * 🎉 I am awarded as a Microsoft MVP: M365
-* 👯 User Group Leader of Workplace Ninjas Denmark
+* 👯 User Group Leader of Workplace Ninjas Denmark (User Group)
 * 💬 Public Speaker (presenting at user groups and conferences worldwide)
 
 #### Blog & Socials
